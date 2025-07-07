@@ -2,7 +2,7 @@
 
 *Feed package for Laravel.*
 
-This is a fork of https://github.com/RumenDamyanov/php-feed
+This is a fork of https://github.com/RumenDamyanov/php-feed and https://github.com/carbonvader/laravel-feed
 
 ## Installation
 
