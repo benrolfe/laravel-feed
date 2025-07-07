@@ -1,22 +1,9 @@
 {
-	"name": "laravelium/feed",
-	"description": "Laravelium Feed package for Laravel.",
-	"homepage": "https://laravelium.com",
+	"name": "handcoded/feed",
+	"description": "HandCoded Feed package for Laravel.",
+	"homepage": "https://handcodedstudio.co.uk/",
 	"keywords": ["laravelium", "laravel", "feed", "generator", "rss", "atom"],
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "Rumen Damyanov",
-			"email": "r@alfamatter.com",
-			"role": "Developer",
-			"homepage": "https://darumen.com"
-		}
-	],
-	"support": {
-		"issues": "https://github.com/Laravelium/laravel-feed/issues",
-		"source": "https://github.com/Laravelium/laravel-feed",
-		"wiki": "https://github.com/Laravelium/laravel-feed/wiki"
-	},
 	"require": {
     "php": ">=7.3",
     "illuminate/support": "^10.0",
@@ -29,16 +16,16 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"Laravelium\\Feed": "src/"
+			"HandCoded\\Feed": "src/"
 		}
 	},
 	"extra": {
 		"laravel": {
 			"providers": [
-				"Laravelium\\Feed\\FeedServiceProvider"
+				"HandCoded\\Feed\\FeedServiceProvider"
 			],
 			"aliases": {
-        "Feed": "Laravelium\\Feed\\Feed"
+        "Feed": "HandCoded\\Feed\\Feed"
       }
 		}
 	},

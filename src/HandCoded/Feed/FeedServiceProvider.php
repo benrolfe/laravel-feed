@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravelium\Feed;
+namespace HandCoded\Feed;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Support\DeferrableProvider;

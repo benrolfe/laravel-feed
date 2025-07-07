@@ -1,4 +1,4 @@
-<?php namespace Laravelium\Feed;
+<?php namespace HandCoded\Feed;
 
 /**
  * Feed generator class for laravel-feed package.
