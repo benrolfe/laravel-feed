@@ -2,7 +2,7 @@
 	"name": "handcoded/feed",
 	"description": "HandCoded Feed package for Laravel.",
 	"homepage": "https://handcodedstudio.co.uk/",
-	"keywords": ["laravelium", "laravel", "feed", "generator", "rss", "atom"],
+	"keywords": ["laravel", "feed", "generator", "rss", "atom"],
 	"license": "MIT",
 	"require": {
     "php": ">=7.3",
